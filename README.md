@@ -1,2 +1,2 @@
 # CogWorksExercises
-Some exercises for ML class
+Some exercises for ML/Cogworks class
